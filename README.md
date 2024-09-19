@@ -1,7 +1,7 @@
 Aygaz Makine Öğrenmesi Bootcamp: Banka Müşteri Churn Analizi Projesi
 
 Projenin Kaggle Linki:
-https://www.kaggle.com/code/mehmetaka/aygaz-bootcamp-ml-project
+https://www.kaggle.com/code/mehmetaka/aygaz-bootcamp-mlproject
 
 
 Veri Seti:
