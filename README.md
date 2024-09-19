@@ -3,6 +3,7 @@ Aygaz Makine Öğrenmesi Bootcamp: Banka Müşteri Churn Analizi Projesi
 Projenin Kaggle Linki:
 https://www.kaggle.com/code/mehmetaka/aygaz-bootcamp-ml-project
 
+
 Veri Seti:
 Projede kullanılan veri seti, 'botswana_bank_customer_churn.csv' dosyasından yüklenmiştir. Veri seti, müşterilerin demografik bilgilerini, finansal durumlarını ve banka ile ilişkilerini içermektedir.
 
