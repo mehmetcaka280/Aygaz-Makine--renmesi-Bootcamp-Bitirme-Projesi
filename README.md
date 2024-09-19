@@ -64,6 +64,6 @@ Optimize Edilmiş K-Means Silhouette Skoru: 0.37385
 
 Çıkarımlar ve Öneriler:
 
-Lojistik Regresyon modeli, müşteri churn'ünü tahmin etmede [başarı düzeyi] bir performans göstermiştir.
-K-Means kümeleme, müşterileri [küme sayısı] gruba ayırmıştır, ancak gruplar arasında net bir ayrım gözlemlenmemiştir.
+Lojistik Regresyon modeli, müşteri churn'ünü tahmin etmede f1 skoru=1  performans göstermiştir.
+K-Means kümeleme, müşterileri 3 gruba ayırmıştır, ancak gruplar arasında net bir ayrım gözlemlenmemiştir.
 Gelir ve kredi skoru arasındaki ilişki, müşteri segmentasyonunda önemli faktörler olarak ortaya çıkmıştır.
