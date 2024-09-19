@@ -3,11 +3,13 @@ Aygaz Makine Öğrenmesi Bootcamp: Banka Müşteri Churn Analizi Projesi
 Projenin Kaggle Linki:
 https://www.kaggle.com/code/mehmetaka/aygaz-bootcamp-ml-project
 
-Proje Özeti
+Veri Seti:
+Projede kullanılan veri seti, 'botswana_bank_customer_churn.csv' dosyasından yüklenmiştir. Veri seti, müşterilerin demografik bilgilerini, finansal durumlarını ve banka ile ilişkilerini içermektedir.
+
+Proje Özeti:
 Bu proje, Aygaz Makine Öğrenmesi Bootcamp kapsamında gerçekleştirilen bir banka müşteri churn analizi çalışmasıdır. Projenin amacı, müşteri verilerini kullanarak churn (müşteri kaybı) tahminlemesi yapmak ve müşteri segmentasyonu oluşturmaktır.
 
-Veri Seti
-Projede kullanılan veri seti, 'botswana_bank_customer_churn.csv' dosyasından yüklenmiştir. Veri seti, müşterilerin demografik bilgilerini, finansal durumlarını ve banka ile ilişkilerini içermektedir.
+
 
 Kullanılan Teknolojiler ve Kütüphaneler:
 
