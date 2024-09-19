@@ -1,1 +1,1 @@
-# Aygaz-Makine-Orenmesi-Bootcamp-Bitirme-Projesi
+# Aygaz-Makine-Ogrenmesi-Bootcamp-Bitirme-Projesi
