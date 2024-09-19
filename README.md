@@ -54,8 +54,8 @@ Kümeleme sonuçları görselleştirildi.
 Sonuçlar
 Lojistik Regresyon Sonuçları:
 
-Normal Lojistik Regresyon Doğruluğu: [Doğruluk değeri]
-Optimize Edilmiş Lojistik Regresyon Doğruluğu: [Optimize edilmiş doğruluk değeri]
+Normal Lojistik Regresyon Doğruluğu: f1 skoru=1
+Optimize Edilmiş Lojistik Regresyon Doğruluğu: f1 skoru=1
 
 K-Means Kümeleme Sonuçları:
 
